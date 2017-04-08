@@ -1,0 +1,19 @@
+.purble_box {
+	background-color: purple; 
+	font-weight: 100;
+	width:20px; 
+}
+
+.pink_box {
+	background-color: pink; 
+	color: lightblue;
+	font-weight: 100;
+	width:222px; 
+}
+
+.gold_box {
+	background-color: gold; 
+	color: midnightblue;
+	font-weight: 20px;
+	width:222px; 
+}
